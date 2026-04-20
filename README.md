@@ -20,7 +20,7 @@ These notes draw heavily from the following MIT OpenCourseWare offerings:
   Explores the cognitive neuroscience of the human brain, including perception, attention, memory, language, and social cognition, with emphasis on neuroimaging methods and key findings.
   [MIT OCW 9.13](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)
 
-- **Fundamentals of Cognitive Neuroscience**
+- **Fundamentals of Cognitive Neuroscience** <br>
   Authors: Nicole M. Gage and Bernard J. Baars
   [ScienceDirect](https://www.sciencedirect.com/book/monograph/9780128038130/fundamentals-of-cognitive-neuroscience#book-description)
 
