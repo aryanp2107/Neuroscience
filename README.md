@@ -24,6 +24,10 @@ These notes draw heavily from the following MIT OpenCourseWare offerings:
   Authors: Nicole M. Gage and Bernard J. Baars
   [ScienceDirect](https://www.sciencedirect.com/book/monograph/9780128038130/fundamentals-of-cognitive-neuroscience#book-description)
 
+- *The Computational Brain* by Patricia Smith Churchland & Terrence J. Sejnowski — a foundational text exploring how neural processes can be understood through computational models, bridging neuroscience and AI.
+
+- *From Computer to Brain: Foundations of Computational Neuroscience* by William W. Lytton — covers the core principles of computational neuroscience, from single-neuron models to network-level simulations.
+
 All course materials referenced are provided by [MIT OpenCourseWare](https://ocw.mit.edu/) under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/). These notes are independently authored and not affiliated with or endorsed by MIT.
 
 ## Disclaimer
