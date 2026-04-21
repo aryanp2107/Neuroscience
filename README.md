@@ -4,7 +4,7 @@ A personal knowledge base covering both biological neuroscience and computationa
 
 ## About
 This repository contains my notes compiled while studying neuroscience concepts. The material spans foundational neurobiology, sensory systems, motor control, learning and memory, and higher cognitive functions.<br>
-**There may be some Machine Learning / Deep learning comparisons at the end of concepts**
+**There may be some Machine Learning / Deep learning comparisons at the end of concepts.**
 
 ![Brain Diagram](image.png)
 
