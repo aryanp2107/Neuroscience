@@ -1,6 +1,6 @@
-# Neuroscience Notes
+# Computational Neuroscience Notes
 
-A personal collection of notes, summaries, and study materials on neuroscience — covering topics from cellular and molecular neuroscience to cognitive and systems-level processes.
+A personal knowledge base covering both biological neuroscience and computational neuroscience — studied in parallel to build a unified understanding of the brain from molecules to models.A collection of notes, summaries, and study materials.
 
 ## About
 
